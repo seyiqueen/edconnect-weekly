@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color:white;
+    width:50%;
+    margin-left: 400px;
+}
+h1{
+    
+    font-family:sans-serif;
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    border:5px solid grey;
+    letter-spacing: 3px;
+}
+p{
+    font-size: large;
+    margin-left:20px;
+}
